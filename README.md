@@ -3,11 +3,16 @@ JavaTraining
 
 Fernando Beltrachini's Globant Trainig Repo.
 
+
+
+
+
 Milestones & releases
 ---------------------
 
 |Date|Objective|Status|
 |----|---------|------|
+| 7/7/2015 | Environment setup: Java, Eclipse, Maven, Git connected with Github, ... | IN PROCESS |
 | 7/10/2015 | OOP: understanding & design documentation| PENDING |
 
 More Info
